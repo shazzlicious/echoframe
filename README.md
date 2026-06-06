@@ -232,3 +232,4 @@ Every culture has stories worth preserving.
 EchoFrame empowers creators, educators, and organizations to transform those stories into engaging digital experiences using Generative AI.
 
 **"Every story deserves to be heard. EchoFrame makes it echo forever."**
+© 2026 EchoFrame. Developed as a Generative AI & Creative Technology project. All trademarks, logos, branding assets, and design materials related to EchoFrame remain the property of the project team
